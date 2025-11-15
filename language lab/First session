@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Crime and Punishment – Reading Session 1</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+
+<body class="bg-[#E6F4FF] text-[#0A0A0A] leading-relaxed">
+
+  <!-- NAVBAR -->
+  <header class="w-full py-4 border-b border-[#DCE3EB] bg-white/70 backdrop-blur-md sticky top-0 z-50">
+    <div class="max-w-6xl mx-auto px-6 flex items-center justify-between">
+      <h1 class="text-xl font-semibold">Lingua Amina</h1>
+      <nav class="hidden md:flex gap-6 text-sm font-medium">
+        <a href="index.html" class="hover:text-[#3A60FF]">Home</a>
+        <a href="courses.html" class="hover:text-[#3A60FF]">Courses</a>
+        <a href="index.html#mission" class="hover:text-[#3A60FF]">Mission</a>
+        <a href="index.html#contact" class="hover:text-[#3A60FF]">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- PAGE HEADER -->
+  <section class="max-w-6xl mx-auto px-6 py-16">
+    <h2 class="text-4xl font-bold leading-tight">Crime and Punishment — Reading Session 1</h2>
+    <p class="mt-4 text-lg text-gray-700 max-w-2xl">
+      (From the Beginning Until “slip out unseen”)  
+      <br><br>
+      As part of our English literature reading program for university students and working professionals, our team selected Fyodor Dostoevsky’s <em>Crime and Punishment</em> as our first novel.  
+      <br><br>
+      This page presents:
+      <ul class="list-disc ml-6 mt-4 text-gray-700">
+        <li>A curated vocabulary list from the selected passage</li>
+        <li>A complete text-analysis guide</li>
+        <li>Questions and answers to develop deep comprehension</li>
+      </ul>
+    </p>
+  </section>
+
+  <!-- CONTENT WRAPPER -->
+  <section class="max-w-6xl mx-auto px-6 pb-20 space-y-16">
+
+    <!-- VOCABULARY -->
+    <div class="bg-white border border-[#DCE3EB] p-8 rounded-xl shadow-sm">
+      <h3 class="text-3xl font-semibold">1. Key Vocabulary From the Passage</h3>
+      <ol class="mt-6 space-y-2 text-gray-700 list-decimal ml-6">
+        <li><strong>Garret</strong> – A very small room at the top of a house, just under the roof.</li>
+        <li><strong>Lodged</strong> – Lived or stayed somewhere (usually rented).</li>
+        <li><strong>In hesitation</strong> – Acting slowly because you’re unsure or afraid.</li>
+        <li><strong>Landlady</strong> – A woman who owns the house or room you rent.</li>
+        <li><strong>Cupboard</strong> – A small storage space; here, it implies the room is tiny.</li>
+        <li><strong>Invariably</strong> – Always, every single time.</li>
+        <li><strong>Sick, frightened feeling</strong> – A fear that tightens your stomach.</li>
+        <li><strong>Scowl</strong> – An angry or unhappy facial expression.</li>
+        <li><strong>Hopelessly in debt</strong> – Owing money and unable to pay it back.</li>
+        <li><strong>Abject</strong> – Extremely weak, miserable, without confidence.</li>
+        <li><strong>Overstrained</strong> – Mentally overworked or stressed.</li>
+        <li><strong>Irritable</strong> – Easily annoyed or angered.</li>
+        <li><strong>Verging (on)</strong> – Almost becoming something.</li>
+        <li><strong>Hypochondria</strong> – Fear of having illnesses without reason.</li>
+        <li><strong>Absorbed in himself</strong> – Lost in his own thoughts.</li>
+        <li><strong>Isolated</strong> – Alone or separated from others.</li>
+        <li><strong>Practical importance</strong> – Everyday responsibilities or tasks.</li>
+        <li><strong>Trivial</strong> – Unimportant or small.</li>
+        <li><strong>Irrelevant</strong> – Not connected to what matters.</li>
+        <li><strong>Pestering</strong> – Repeatedly annoying someone.</li>
+        <li><strong>Prevaricate</strong> – Avoid telling the truth; speak confusingly.</li>
+        <li><strong>Lie</strong> – Say something untrue.</li>
+        <li><strong>Creep (down the stairs)</strong> – Move quietly so no one notices.</li>
+        <li><strong>Slip out unseen</strong> – Leave secretly without being noticed.</li>
+      </ol>
+    </div>
+
+    <!-- BLOOM'S TAXONOMY -->
+    <div class="bg-white border border-[#DCE3EB] p-8 rounded-xl shadow-sm">
+      <h3 class="text-3xl font-semibold">2. Text Analysis </h3>
+      <p class="text-gray-700 mt-4">
+        Below you’ll find structured comprehension activities with three questions per level, each followed by model answers.
+      </p>
+
+      <!-- LEVEL 1 -->
+      <div class="mt-10">
+        <h4 class="text-2xl font-semibold">Level 1 </h4>
+        <ul class="mt-4 space-y-6 text-gray-700">
+          <li>
+            <strong>1. Where does the young man live?</strong><br>
+            He lives in a garret, a small attic room in a five-storied house in S. Place.
+          </li>
+          <li>
+            <strong>2. Who lives on the floor below him?</strong><br>
+            His landlady, who provides meals and services.
+          </li>
+          <li>
+            <strong>3. What feeling does he experience when he passes the kitchen?</strong><br>
+            He feels sick, frightened, ashamed, and anxious.
+          </li>
+        </ul>
+      </div>
+
+      <!-- LEVEL 2 -->
+      <div class="mt-10">
+        <h4 class="text-2xl font-semibold">Level 2 </h4>
+        <ul class="mt-4 space-y-6 text-gray-700">
+          <li>
+            <strong>1. Why does he avoid the landlady?</strong><br>
+            Because he owes her money and fears her questions or complaints.
+          </li>
+          <li>
+            <strong>2. How is his garret described, and what does it reveal?</strong><br>
+            It is “more like a cupboard than a room,” suggesting poverty and isolation.
+          </li>
+          <li>
+            <strong>3. What does his fear of meeting her tell us about him?</strong><br>
+            He is anxious and socially withdrawn, though not cowardly.
+          </li>
+        </ul>
+      </div>
+
+      <!-- LEVEL 3 -->
+      <div class="mt-10">
+        <h4 class="text-2xl font-semibold">Level 3 </h4>
+        <ul class="mt-4 space-y-6 text-gray-700">
+          <li>
+            <strong>1. If you were in his place in debt, how might you behave differently?</strong><br>
+            Possible answer: communicate openly or repay part of the debt.
+          </li>
+          <li>
+            <strong>2. Imagine another person living in such a garret—what might their life feel like?</strong><br>
+            Cramped, lonely, stressful, uncomfortable.
+          </li>
+          <li>
+            <strong>3. How could his fear affect other relationships?</strong><br>
+            He may avoid people and become socially anxious.
+          </li>
+        </ul>
+      </div>
+
+      <!-- LEVEL 4 -->
+      <div class="mt-10">
+        <h4 class="text-2xl font-semibold">Level 4 </h4>
+        <ul class="mt-4 space-y-6 text-gray-700">
+          <li>
+            <strong>1. How does Dostoevsky use the city to reflect his state of mind?</strong><br>
+            The heat, smells, and crowded streets mirror his anxiety.
+          </li>
+          <li>
+            <strong>2. What contrast exists between his fear and the landlady’s behavior?</strong><br>
+            She behaves normally; his fear is internal and psychological.
+          </li>
+          <li>
+            <strong>3. What do small details reveal about social pressure?</strong><br>
+            They show constant scrutiny and judgment.
+          </li>
+        </ul>
+      </div>
+
+      <!-- LEVEL 5 -->
+      <div class="mt-10">
+        <h4 class="text-2xl font-semibold">Level 5 </h4>
+        <ul class="mt-4 space-y-6 text-gray-700">
+          <li>
+            <strong>1. Is his fear reasonable?</strong><br>
+            Reasonable due to debt, but exaggerated since she isn’t dangerous.
+          </li>
+          <li>
+            <strong>2. How effectively is tension created?</strong><br>
+            Very effectively, through vivid setting and internal thoughts.
+          </li>
+          <li>
+            <strong>3. Does the garret description create sympathy?</strong><br>
+            Yes — it highlights his isolation and poverty.
+          </li>
+        </ul>
+      </div>
+
+      <!-- LEVEL 6 -->
+      <div class="mt-10">
+        <h4 class="text-2xl font-semibold">Level 6 </h4>
+        <ul class="mt-4 space-y-6 text-gray-700">
+          <li>
+            <strong>1. Rewrite the scene from the landlady’s perspective.</strong><br>
+            Example: She thinks he is strange, unreliable, or troubled.
+          </li>
+          <li>
+            <strong>2. Imagine a modern version of this man.</strong><br>
+            He might avoid crowded streets, worry about bills, and feel stressed.
+          </li>
+          <li>
+            <strong>3. Write a diary entry from his perspective.</strong><br>
+            “July 3rd. The heat is unbearable. Passing the kitchen tightens my chest...”
+          </li>
+        </ul>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer class="bg-[#0A0A0A] text-white py-8 mt-16">
+    <div class="max-w-6xl mx-auto px-6 flex flex-col md:flex-row justify-between items-center gap-4">
+      <div>
+        <strong>Lingua Amina</strong>
+        <p class="text-sm text-gray-300">© 2025 All Rights Reserved</p>
+      </div>
+      <div class="flex gap-4 text-sm">
+        <a href="#" class="hover:text-white">Privacy</a>
+        <a href="#" class="hover:text-white">Terms</a>
+      </div>
+    </div>
+  </footer>
+
+</body>
+</html>
